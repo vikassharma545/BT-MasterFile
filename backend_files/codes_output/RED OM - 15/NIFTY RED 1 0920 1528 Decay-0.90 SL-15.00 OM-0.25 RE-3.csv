@@ -1,0 +1,781 @@
+Date,Day,DTE,Expiry.Day,Time,Future,ce_scrip,ce_price,ce_sl,ce_sl_time,ce_pnl,ce_scrip_1,ce_price_1,ce_decay_1,ce_decay_time_1,ce_sl_hit_1,ce_sl_time_1,ce_pnl_1,ce_scrip_2,ce_price_2,ce_decay_2,ce_decay_time_2,ce_sl_hit_2,ce_sl_time_2,ce_pnl_2,ce_scrip_3,ce_price_3,ce_decay_3,ce_decay_time_3,ce_sl_hit_3,ce_sl_time_3,ce_pnl_3,pe_scrip,pe_price,pe_sl,pe_sl_time,pe_pnl,pe_scrip_1,pe_pripe_1,pe_decay_1,pe_decay_time_1,pe_sl_hit_1,pe_sl_time_1,pe_pnl_1,pe_scrip_2,pe_pripe_2,pe_decay_2,pe_decay_time_2,pe_sl_hit_2,pe_sl_time_2,pe_pnl_2,pe_scrip_3,pe_pripe_3,pe_decay_3,pe_decay_time_3,pe_sl_hit_3,pe_sl_time_3,pe_pnl_3,Total PNL
+2024-01-04,Thursday,"                  Day  BANKNIFTY  NIFTY  FINNIFTY  MIDCPNIFTY  SENSEX  BANKEX
+Date                                                                         
+2017-01-02     Monday          4    NaN       NaN         NaN     NaN     NaN
+2017-01-03    Tuesday          3    NaN       NaN         NaN     NaN     NaN
+2017-01-04  Wednesday          2    NaN       NaN         NaN     NaN     NaN
+2017-01-05   Thursday          1    NaN       NaN         NaN     NaN     NaN
+2017-01-06     Friday          5    NaN       NaN         NaN     NaN     NaN
+...               ...        ...    ...       ...         ...     ...     ...
+2025-12-24  Wednesday          1    1.0       1.0         1.0     4.0     4.0
+2025-12-26     Friday         33    5.0      33.0        33.0     3.0     3.0
+2025-12-29     Monday         32    4.0      32.0        32.0     2.0     2.0
+2025-12-30    Tuesday         31    3.0      31.0        31.0     1.0     1.0
+2025-12-31  Wednesday         30    2.0      30.0        30.0     5.0    28.0
+
+[2220 rows x 7 columns]",TRUE,09:20:00,21682.3,21600CE,37.15,True,09:27:00,-5.94,21600CE,40.75,True,09:32:00,True,09:37:00,-5.87,21600CE,41.5,True,09:39:00,True,10:14:00,-5.98,21650CE,21.75,True,10:26:00,True,10:36:00,-3.13,21600PE,41.5,False,,41.04,,,False,,False,,0.0,,,False,,False,,0.0,,,False,,False,,0.0,20.12
+2024-01-11,Thursday,"                  Day  BANKNIFTY  NIFTY  FINNIFTY  MIDCPNIFTY  SENSEX  BANKEX
+Date                                                                         
+2017-01-02     Monday          4    NaN       NaN         NaN     NaN     NaN
+2017-01-03    Tuesday          3    NaN       NaN         NaN     NaN     NaN
+2017-01-04  Wednesday          2    NaN       NaN         NaN     NaN     NaN
+2017-01-05   Thursday          1    NaN       NaN         NaN     NaN     NaN
+2017-01-06     Friday          5    NaN       NaN         NaN     NaN     NaN
+...               ...        ...    ...       ...         ...     ...     ...
+2025-12-24  Wednesday          1    1.0       1.0         1.0     4.0     4.0
+2025-12-26     Friday         33    5.0      33.0        33.0     3.0     3.0
+2025-12-29     Monday         32    4.0      32.0        32.0     2.0     2.0
+2025-12-30    Tuesday         31    3.0      31.0        31.0     1.0     1.0
+2025-12-31  Wednesday         30    2.0      30.0        30.0     5.0    28.0
+
+[2220 rows x 7 columns]",TRUE,09:20:00,21757.0,21700CE,44.05,False,,43.56,,,False,,False,,0.0,,,False,,False,,0.0,,,False,,False,,0.0,21700PE,35.9,True,09:32:00,-5.74,21700PE,40.65,True,09:35:00,True,09:36:00,-5.85,21700PE,44.1,True,09:37:00,True,09:41:00,-6.35,21700PE,47.55,True,09:43:00,True,09:45:00,-6.85,18.770000000000003
+2024-01-18,Thursday,"                  Day  BANKNIFTY  NIFTY  FINNIFTY  MIDCPNIFTY  SENSEX  BANKEX
+Date                                                                         
+2017-01-02     Monday          4    NaN       NaN         NaN     NaN     NaN
+2017-01-03    Tuesday          3    NaN       NaN         NaN     NaN     NaN
+2017-01-04  Wednesday          2    NaN       NaN         NaN     NaN     NaN
+2017-01-05   Thursday          1    NaN       NaN         NaN     NaN     NaN
+2017-01-06     Friday          5    NaN       NaN         NaN     NaN     NaN
+...               ...        ...    ...       ...         ...     ...     ...
+2025-12-24  Wednesday          1    1.0       1.0         1.0     4.0     4.0
+2025-12-26     Friday         33    5.0      33.0        33.0     3.0     3.0
+2025-12-29     Monday         32    4.0      32.0        32.0     2.0     2.0
+2025-12-30    Tuesday         31    3.0      31.0        31.0     1.0     1.0
+2025-12-31  Wednesday         30    2.0      30.0        30.0     5.0    28.0
+
+[2220 rows x 7 columns]",TRUE,09:20:00,21479.0,21450CE,55.6,True,11:58:00,-8.9,21500CE,35.7,True,11:59:00,True,12:06:00,-5.14,21500CE,39.0,True,12:07:00,True,12:22:00,-5.62,21500CE,42.75,True,12:28:00,False,,37.84,21450PE,59.6,True,09:26:00,-9.54,21400PE,46.8,True,10:09:00,True,10:11:00,-6.74,21400PE,53.9,True,10:12:00,True,10:13:00,-7.76,21400PE,54.65,True,10:21:00,False,,48.64,42.78
+2024-01-25,Thursday,"                  Day  BANKNIFTY  NIFTY  FINNIFTY  MIDCPNIFTY  SENSEX  BANKEX
+Date                                                                         
+2017-01-02     Monday          4    NaN       NaN         NaN     NaN     NaN
+2017-01-03    Tuesday          3    NaN       NaN         NaN     NaN     NaN
+2017-01-04  Wednesday          2    NaN       NaN         NaN     NaN     NaN
+2017-01-05   Thursday          1    NaN       NaN         NaN     NaN     NaN
+2017-01-06     Friday          5    NaN       NaN         NaN     NaN     NaN
+...               ...        ...    ...       ...         ...     ...     ...
+2025-12-24  Wednesday          1    1.0       1.0         1.0     4.0     4.0
+2025-12-26     Friday         33    5.0      33.0        33.0     3.0     3.0
+2025-12-29     Monday         32    4.0      32.0        32.0     2.0     2.0
+2025-12-30    Tuesday         31    3.0      31.0        31.0     1.0     1.0
+2025-12-31  Wednesday         30    2.0      30.0        30.0     5.0    28.0
+
+[2220 rows x 7 columns]",TRUE,09:20:00,21420.95,21450CE,52.85,True,09:28:00,-8.46,21450CE,60.05,True,09:31:00,False,,53.3,,,False,,False,,0.0,,,False,,False,,0.0,21400PE,56.2,True,09:23:00,-8.99,21400PE,68.85,True,09:27:00,True,09:44:00,-9.91,21400PE,75.85,True,09:46:00,True,09:54:00,-10.92,21350PE,57.5,True,09:55:00,True,10:09:00,-8.28,6.739999999999995
+2024-02-01,Thursday,"                  Day  BANKNIFTY  NIFTY  FINNIFTY  MIDCPNIFTY  SENSEX  BANKEX
+Date                                                                         
+2017-01-02     Monday          4    NaN       NaN         NaN     NaN     NaN
+2017-01-03    Tuesday          3    NaN       NaN         NaN     NaN     NaN
+2017-01-04  Wednesday          2    NaN       NaN         NaN     NaN     NaN
+2017-01-05   Thursday          1    NaN       NaN         NaN     NaN     NaN
+2017-01-06     Friday          5    NaN       NaN         NaN     NaN     NaN
+...               ...        ...    ...       ...         ...     ...     ...
+2025-12-24  Wednesday          1    1.0       1.0         1.0     4.0     4.0
+2025-12-26     Friday         33    5.0      33.0        33.0     3.0     3.0
+2025-12-29     Monday         32    4.0      32.0        32.0     2.0     2.0
+2025-12-30    Tuesday         31    3.0      31.0        31.0     1.0     1.0
+2025-12-31  Wednesday         30    2.0      30.0        30.0     5.0    28.0
+
+[2220 rows x 7 columns]",TRUE,09:20:00,21805.4,21900CE,55.65,True,10:54:00,-8.9,21950CE,53.1,True,10:56:00,True,11:02:00,-7.65,21950CE,64.0,True,11:03:00,False,,56.97,,,False,,False,,0.0,21550PE,56.7,True,11:17:00,-9.07,21600PE,60.85,True,11:18:00,False,,54.17,,,False,,False,,0.0,,,False,,False,,0.0,85.52000000000001
+2024-02-08,Thursday,"                  Day  BANKNIFTY  NIFTY  FINNIFTY  MIDCPNIFTY  SENSEX  BANKEX
+Date                                                                         
+2017-01-02     Monday          4    NaN       NaN         NaN     NaN     NaN
+2017-01-03    Tuesday          3    NaN       NaN         NaN     NaN     NaN
+2017-01-04  Wednesday          2    NaN       NaN         NaN     NaN     NaN
+2017-01-05   Thursday          1    NaN       NaN         NaN     NaN     NaN
+2017-01-06     Friday          5    NaN       NaN         NaN     NaN     NaN
+...               ...        ...    ...       ...         ...     ...     ...
+2025-12-24  Wednesday          1    1.0       1.0         1.0     4.0     4.0
+2025-12-26     Friday         33    5.0      33.0        33.0     3.0     3.0
+2025-12-29     Monday         32    4.0      32.0        32.0     2.0     2.0
+2025-12-30    Tuesday         31    3.0      31.0        31.0     1.0     1.0
+2025-12-31  Wednesday         30    2.0      30.0        30.0     5.0    28.0
+
+[2220 rows x 7 columns]",TRUE,09:20:00,22082.55,22000CE,68.5,False,,67.76,,,False,,False,,0.0,,,False,,False,,0.0,,,False,,False,,0.0,22000PE,51.15,True,09:25:00,-8.18,22000PE,53.4,False,,False,,0.0,,,False,,False,,0.0,,,False,,False,,0.0,59.580000000000005
+2024-02-15,Thursday,"                  Day  BANKNIFTY  NIFTY  FINNIFTY  MIDCPNIFTY  SENSEX  BANKEX
+Date                                                                         
+2017-01-02     Monday          4    NaN       NaN         NaN     NaN     NaN
+2017-01-03    Tuesday          3    NaN       NaN         NaN     NaN     NaN
+2017-01-04  Wednesday          2    NaN       NaN         NaN     NaN     NaN
+2017-01-05   Thursday          1    NaN       NaN         NaN     NaN     NaN
+2017-01-06     Friday          5    NaN       NaN         NaN     NaN     NaN
+...               ...        ...    ...       ...         ...     ...     ...
+2025-12-24  Wednesday          1    1.0       1.0         1.0     4.0     4.0
+2025-12-26     Friday         33    5.0      33.0        33.0     3.0     3.0
+2025-12-29     Monday         32    4.0      32.0        32.0     2.0     2.0
+2025-12-30    Tuesday         31    3.0      31.0        31.0     1.0     1.0
+2025-12-31  Wednesday         30    2.0      30.0        30.0     5.0    28.0
+
+[2220 rows x 7 columns]",TRUE,09:20:00,21937.95,21900CE,60.2,True,09:24:00,-9.63,21900CE,67.1,True,09:25:00,True,13:41:00,-9.66,21950CE,38.7,True,13:42:00,True,13:44:00,-5.57,21950CE,41.05,True,13:45:00,True,13:47:00,-5.91,21900PE,65.35,True,09:22:00,-10.46,21850PE,51.2,True,09:23:00,True,09:27:00,-7.37,21850PE,53.85,True,09:29:00,True,09:31:00,-7.75,21850PE,50.85,True,09:32:00,True,09:33:00,-7.32,-63.67
+2024-02-22,Thursday,"                  Day  BANKNIFTY  NIFTY  FINNIFTY  MIDCPNIFTY  SENSEX  BANKEX
+Date                                                                         
+2017-01-02     Monday          4    NaN       NaN         NaN     NaN     NaN
+2017-01-03    Tuesday          3    NaN       NaN         NaN     NaN     NaN
+2017-01-04  Wednesday          2    NaN       NaN         NaN     NaN     NaN
+2017-01-05   Thursday          1    NaN       NaN         NaN     NaN     NaN
+2017-01-06     Friday          5    NaN       NaN         NaN     NaN     NaN
+...               ...        ...    ...       ...         ...     ...     ...
+2025-12-24  Wednesday          1    1.0       1.0         1.0     4.0     4.0
+2025-12-26     Friday         33    5.0      33.0        33.0     3.0     3.0
+2025-12-29     Monday         32    4.0      32.0        32.0     2.0     2.0
+2025-12-30    Tuesday         31    3.0      31.0        31.0     1.0     1.0
+2025-12-31  Wednesday         30    2.0      30.0        30.0     5.0    28.0
+
+[2220 rows x 7 columns]",TRUE,09:20:00,22087.55,22050CE,55.55,True,09:42:00,-8.89,22000CE,67.05,True,09:53:00,True,13:54:00,-9.66,22050CE,29.15,True,13:55:00,True,13:57:00,-4.2,22050CE,30.0,True,14:14:00,True,14:15:00,-4.32,22050PE,72.65,True,09:26:00,-11.62,22000PE,54.05,True,09:42:00,True,09:53:00,-7.78,22000PE,55.75,True,13:37:00,False,,49.62,,,False,,False,,0.0,3.1499999999999986
+2024-02-29,Thursday,"                  Day  BANKNIFTY  NIFTY  FINNIFTY  MIDCPNIFTY  SENSEX  BANKEX
+Date                                                                         
+2017-01-02     Monday          4    NaN       NaN         NaN     NaN     NaN
+2017-01-03    Tuesday          3    NaN       NaN         NaN     NaN     NaN
+2017-01-04  Wednesday          2    NaN       NaN         NaN     NaN     NaN
+2017-01-05   Thursday          1    NaN       NaN         NaN     NaN     NaN
+2017-01-06     Friday          5    NaN       NaN         NaN     NaN     NaN
+...               ...        ...    ...       ...         ...     ...     ...
+2025-12-24  Wednesday          1    1.0       1.0         1.0     4.0     4.0
+2025-12-26     Friday         33    5.0      33.0        33.0     3.0     3.0
+2025-12-29     Monday         32    4.0      32.0        32.0     2.0     2.0
+2025-12-30    Tuesday         31    3.0      31.0        31.0     1.0     1.0
+2025-12-31  Wednesday         30    2.0      30.0        30.0     5.0    28.0
+
+[2220 rows x 7 columns]",TRUE,09:20:00,21915.0,21950CE,61.1,True,09:25:00,-9.78,21950CE,69.15,True,09:41:00,True,09:43:00,-9.96,21950CE,71.9,True,09:48:00,True,09:54:00,-10.35,22000CE,58.8,True,10:08:00,True,11:15:00,-8.47,21850PE,51.2,True,09:22:00,-8.19,21850PE,57.85,True,09:23:00,True,10:11:00,-8.33,21850PE,58.5,True,10:29:00,True,10:30:00,-8.42,21850PE,61.65,True,10:32:00,True,10:35:00,-8.88,-72.38
+2024-03-07,Thursday,"                  Day  BANKNIFTY  NIFTY  FINNIFTY  MIDCPNIFTY  SENSEX  BANKEX
+Date                                                                         
+2017-01-02     Monday          4    NaN       NaN         NaN     NaN     NaN
+2017-01-03    Tuesday          3    NaN       NaN         NaN     NaN     NaN
+2017-01-04  Wednesday          2    NaN       NaN         NaN     NaN     NaN
+2017-01-05   Thursday          1    NaN       NaN         NaN     NaN     NaN
+2017-01-06     Friday          5    NaN       NaN         NaN     NaN     NaN
+...               ...        ...    ...       ...         ...     ...     ...
+2025-12-24  Wednesday          1    1.0       1.0         1.0     4.0     4.0
+2025-12-26     Friday         33    5.0      33.0        33.0     3.0     3.0
+2025-12-29     Monday         32    4.0      32.0        32.0     2.0     2.0
+2025-12-30    Tuesday         31    3.0      31.0        31.0     1.0     1.0
+2025-12-31  Wednesday         30    2.0      30.0        30.0     5.0    28.0
+
+[2220 rows x 7 columns]",TRUE,09:20:00,22574.4,22500CE,49.6,True,11:04:00,-7.94,22500CE,42.6,True,11:05:00,False,,37.91,,,False,,False,,0.0,,,False,,False,,0.0,22500PE,62.25,True,09:31:00,-9.96,22500PE,64.15,True,09:33:00,True,09:41:00,-9.24,22450PE,43.1,True,09:43:00,False,,38.35,,,False,,False,,0.0,49.11999999999999
+2024-03-14,Thursday,"                  Day  BANKNIFTY  NIFTY  FINNIFTY  MIDCPNIFTY  SENSEX  BANKEX
+Date                                                                         
+2017-01-02     Monday          4    NaN       NaN         NaN     NaN     NaN
+2017-01-03    Tuesday          3    NaN       NaN         NaN     NaN     NaN
+2017-01-04  Wednesday          2    NaN       NaN         NaN     NaN     NaN
+2017-01-05   Thursday          1    NaN       NaN         NaN     NaN     NaN
+2017-01-06     Friday          5    NaN       NaN         NaN     NaN     NaN
+...               ...        ...    ...       ...         ...     ...     ...
+2025-12-24  Wednesday          1    1.0       1.0         1.0     4.0     4.0
+2025-12-26     Friday         33    5.0      33.0        33.0     3.0     3.0
+2025-12-29     Monday         32    4.0      32.0        32.0     2.0     2.0
+2025-12-30    Tuesday         31    3.0      31.0        31.0     1.0     1.0
+2025-12-31  Wednesday         30    2.0      30.0        30.0     5.0    28.0
+
+[2220 rows x 7 columns]",TRUE,09:20:00,22061.2,21950CE,70.7,True,09:22:00,-11.31,22000CE,58.95,True,10:10:00,True,10:11:00,-8.49,22050CE,42.0,True,10:13:00,True,10:34:00,-6.05,22050CE,57.35,True,10:35:00,True,10:36:00,-8.26,21950PE,77.7,False,,76.87,,,False,,False,,0.0,,,False,,False,,0.0,,,False,,False,,0.0,42.760000000000005
+2024-03-21,Thursday,"                  Day  BANKNIFTY  NIFTY  FINNIFTY  MIDCPNIFTY  SENSEX  BANKEX
+Date                                                                         
+2017-01-02     Monday          4    NaN       NaN         NaN     NaN     NaN
+2017-01-03    Tuesday          3    NaN       NaN         NaN     NaN     NaN
+2017-01-04  Wednesday          2    NaN       NaN         NaN     NaN     NaN
+2017-01-05   Thursday          1    NaN       NaN         NaN     NaN     NaN
+2017-01-06     Friday          5    NaN       NaN         NaN     NaN     NaN
+...               ...        ...    ...       ...         ...     ...     ...
+2025-12-24  Wednesday          1    1.0       1.0         1.0     4.0     4.0
+2025-12-26     Friday         33    5.0      33.0        33.0     3.0     3.0
+2025-12-29     Monday         32    4.0      32.0        32.0     2.0     2.0
+2025-12-30    Tuesday         31    3.0      31.0        31.0     1.0     1.0
+2025-12-31  Wednesday         30    2.0      30.0        30.0     5.0    28.0
+
+[2220 rows x 7 columns]",TRUE,09:20:00,22074.2,22000CE,52.4,True,10:05:00,-8.38,22050CE,33.0,True,10:29:00,True,10:32:00,-4.75,22050CE,34.5,True,10:33:00,True,11:01:00,-4.97,22050CE,32.1,True,11:20:00,False,,28.55,22000PE,52.75,True,09:24:00,-8.44,22000PE,58.3,True,09:25:00,True,09:34:00,-8.4,21950PE,38.55,True,09:35:00,True,12:10:00,-5.55,21950PE,36.45,True,12:11:00,True,12:12:00,-5.25,-17.19
+2024-03-28,Thursday,"                  Day  BANKNIFTY  NIFTY  FINNIFTY  MIDCPNIFTY  SENSEX  BANKEX
+Date                                                                         
+2017-01-02     Monday          4    NaN       NaN         NaN     NaN     NaN
+2017-01-03    Tuesday          3    NaN       NaN         NaN     NaN     NaN
+2017-01-04  Wednesday          2    NaN       NaN         NaN     NaN     NaN
+2017-01-05   Thursday          1    NaN       NaN         NaN     NaN     NaN
+2017-01-06     Friday          5    NaN       NaN         NaN     NaN     NaN
+...               ...        ...    ...       ...         ...     ...     ...
+2025-12-24  Wednesday          1    1.0       1.0         1.0     4.0     4.0
+2025-12-26     Friday         33    5.0      33.0        33.0     3.0     3.0
+2025-12-29     Monday         32    4.0      32.0        32.0     2.0     2.0
+2025-12-30    Tuesday         31    3.0      31.0        31.0     1.0     1.0
+2025-12-31  Wednesday         30    2.0      30.0        30.0     5.0    28.0
+
+[2220 rows x 7 columns]",TRUE,09:20:00,22215.0,22200CE,55.85,True,09:22:00,-8.94,22250CE,40.65,True,09:31:00,True,09:33:00,-5.85,22250CE,41.85,True,15:16:00,True,15:17:00,-6.03,22300CE,13.45,True,15:20:00,True,15:21:00,-1.94,22200PE,41.3,False,,40.74,,,False,,False,,0.0,,,False,,False,,0.0,,,False,,False,,0.0,17.98
+2024-04-04,Thursday,"                  Day  BANKNIFTY  NIFTY  FINNIFTY  MIDCPNIFTY  SENSEX  BANKEX
+Date                                                                         
+2017-01-02     Monday          4    NaN       NaN         NaN     NaN     NaN
+2017-01-03    Tuesday          3    NaN       NaN         NaN     NaN     NaN
+2017-01-04  Wednesday          2    NaN       NaN         NaN     NaN     NaN
+2017-01-05   Thursday          1    NaN       NaN         NaN     NaN     NaN
+2017-01-06     Friday          5    NaN       NaN         NaN     NaN     NaN
+...               ...        ...    ...       ...         ...     ...     ...
+2025-12-24  Wednesday          1    1.0       1.0         1.0     4.0     4.0
+2025-12-26     Friday         33    5.0      33.0        33.0     3.0     3.0
+2025-12-29     Monday         32    4.0      32.0        32.0     2.0     2.0
+2025-12-30    Tuesday         31    3.0      31.0        31.0     1.0     1.0
+2025-12-31  Wednesday         30    2.0      30.0        30.0     5.0    28.0
+
+[2220 rows x 7 columns]",TRUE,09:20:00,22645.0,22550CE,51.9,True,13:31:00,-8.3,22600CE,32.85,True,13:32:00,False,,29.22,,,False,,False,,0.0,,,False,,False,,0.0,22550PE,51.4,True,09:21:00,-8.22,22500PE,47.8,True,09:22:00,True,09:27:00,-6.88,22500PE,46.35,True,13:17:00,True,13:20:00,-6.67,22500PE,48.3,True,13:21:00,False,,42.94,42.08999999999999
+2024-04-10,Wednesday,"                  Day  BANKNIFTY  NIFTY  FINNIFTY  MIDCPNIFTY  SENSEX  BANKEX
+Date                                                                         
+2017-01-02     Monday          4    NaN       NaN         NaN     NaN     NaN
+2017-01-03    Tuesday          3    NaN       NaN         NaN     NaN     NaN
+2017-01-04  Wednesday          2    NaN       NaN         NaN     NaN     NaN
+2017-01-05   Thursday          1    NaN       NaN         NaN     NaN     NaN
+2017-01-06     Friday          5    NaN       NaN         NaN     NaN     NaN
+...               ...        ...    ...       ...         ...     ...     ...
+2025-12-24  Wednesday          1    1.0       1.0         1.0     4.0     4.0
+2025-12-26     Friday         33    5.0      33.0        33.0     3.0     3.0
+2025-12-29     Monday         32    4.0      32.0        32.0     2.0     2.0
+2025-12-30    Tuesday         31    3.0      31.0        31.0     1.0     1.0
+2025-12-31  Wednesday         30    2.0      30.0        30.0     5.0    28.0
+
+[2220 rows x 7 columns]",TRUE,09:20:00,22760.0,22700CE,44.35,True,09:24:00,-7.1,22700CE,53.6,True,09:36:00,True,09:38:00,-7.72,22700CE,54.1,True,09:53:00,True,15:04:00,-7.79,22750CE,9.85,True,15:06:00,True,15:07:00,-1.42,22700PE,64.85,False,,64.1,,,False,,False,,0.0,,,False,,False,,0.0,,,False,,False,,0.0,40.06999999999999
+2024-04-18,Thursday,"                  Day  BANKNIFTY  NIFTY  FINNIFTY  MIDCPNIFTY  SENSEX  BANKEX
+Date                                                                         
+2017-01-02     Monday          4    NaN       NaN         NaN     NaN     NaN
+2017-01-03    Tuesday          3    NaN       NaN         NaN     NaN     NaN
+2017-01-04  Wednesday          2    NaN       NaN         NaN     NaN     NaN
+2017-01-05   Thursday          1    NaN       NaN         NaN     NaN     NaN
+2017-01-06     Friday          5    NaN       NaN         NaN     NaN     NaN
+...               ...        ...    ...       ...         ...     ...     ...
+2025-12-24  Wednesday          1    1.0       1.0         1.0     4.0     4.0
+2025-12-26     Friday         33    5.0      33.0        33.0     3.0     3.0
+2025-12-29     Monday         32    4.0      32.0        32.0     2.0     2.0
+2025-12-30    Tuesday         31    3.0      31.0        31.0     1.0     1.0
+2025-12-31  Wednesday         30    2.0      30.0        30.0     5.0    28.0
+
+[2220 rows x 7 columns]",TRUE,09:20:00,22267.1,22250CE,40.8,True,09:23:00,-6.53,22250CE,47.2,True,09:26:00,True,11:07:00,-6.8,22250CE,55.0,True,11:08:00,True,11:10:00,-7.92,22300CE,39.9,True,11:11:00,True,12:18:00,-5.75,22250PE,48.5,True,09:30:00,-7.76,22250PE,49.8,True,11:06:00,True,13:26:00,-7.17,22100PE,84.45,True,13:30:00,True,13:37:00,-12.16,22050PE,70.1,True,13:38:00,True,15:13:00,-10.09,-64.18
+2024-04-25,Thursday,"                  Day  BANKNIFTY  NIFTY  FINNIFTY  MIDCPNIFTY  SENSEX  BANKEX
+Date                                                                         
+2017-01-02     Monday          4    NaN       NaN         NaN     NaN     NaN
+2017-01-03    Tuesday          3    NaN       NaN         NaN     NaN     NaN
+2017-01-04  Wednesday          2    NaN       NaN         NaN     NaN     NaN
+2017-01-05   Thursday          1    NaN       NaN         NaN     NaN     NaN
+2017-01-06     Friday          5    NaN       NaN         NaN     NaN     NaN
+...               ...        ...    ...       ...         ...     ...     ...
+2025-12-24  Wednesday          1    1.0       1.0         1.0     4.0     4.0
+2025-12-26     Friday         33    5.0      33.0        33.0     3.0     3.0
+2025-12-29     Monday         32    4.0      32.0        32.0     2.0     2.0
+2025-12-30    Tuesday         31    3.0      31.0        31.0     1.0     1.0
+2025-12-31  Wednesday         30    2.0      30.0        30.0     5.0    28.0
+
+[2220 rows x 7 columns]",TRUE,09:20:00,22336.15,22350CE,46.15,True,09:26:00,-7.38,22350CE,51.15,False,,False,,0.0,,,False,,False,,0.0,,,False,,False,,0.0,22350PE,58.45,True,10:51:00,-9.35,22400PE,53.9,True,11:06:00,True,12:25:00,-7.76,22400PE,45.4,True,12:26:00,True,12:54:00,-6.54,22400PE,47.1,True,12:58:00,False,,41.77,10.740000000000006
+2024-05-02,Thursday,"                  Day  BANKNIFTY  NIFTY  FINNIFTY  MIDCPNIFTY  SENSEX  BANKEX
+Date                                                                         
+2017-01-02     Monday          4    NaN       NaN         NaN     NaN     NaN
+2017-01-03    Tuesday          3    NaN       NaN         NaN     NaN     NaN
+2017-01-04  Wednesday          2    NaN       NaN         NaN     NaN     NaN
+2017-01-05   Thursday          1    NaN       NaN         NaN     NaN     NaN
+2017-01-06     Friday          5    NaN       NaN         NaN     NaN     NaN
+...               ...        ...    ...       ...         ...     ...     ...
+2025-12-24  Wednesday          1    1.0       1.0         1.0     4.0     4.0
+2025-12-26     Friday         33    5.0      33.0        33.0     3.0     3.0
+2025-12-29     Monday         32    4.0      32.0        32.0     2.0     2.0
+2025-12-30    Tuesday         31    3.0      31.0        31.0     1.0     1.0
+2025-12-31  Wednesday         30    2.0      30.0        30.0     5.0    28.0
+
+[2220 rows x 7 columns]",TRUE,09:20:00,22720.8,22650CE,69.2,True,09:46:00,-11.07,22700CE,47.85,True,09:48:00,True,10:07:00,-6.89,22700CE,49.3,True,10:15:00,True,10:30:00,-7.1,22700CE,48.75,True,10:35:00,True,10:37:00,-7.02,22650PE,57.75,False,,55.67,,,False,,False,,0.0,,,False,,False,,0.0,,,False,,False,,0.0,23.590000000000003
+2024-05-09,Thursday,"                  Day  BANKNIFTY  NIFTY  FINNIFTY  MIDCPNIFTY  SENSEX  BANKEX
+Date                                                                         
+2017-01-02     Monday          4    NaN       NaN         NaN     NaN     NaN
+2017-01-03    Tuesday          3    NaN       NaN         NaN     NaN     NaN
+2017-01-04  Wednesday          2    NaN       NaN         NaN     NaN     NaN
+2017-01-05   Thursday          1    NaN       NaN         NaN     NaN     NaN
+2017-01-06     Friday          5    NaN       NaN         NaN     NaN     NaN
+...               ...        ...    ...       ...         ...     ...     ...
+2025-12-24  Wednesday          1    1.0       1.0         1.0     4.0     4.0
+2025-12-26     Friday         33    5.0      33.0        33.0     3.0     3.0
+2025-12-29     Monday         32    4.0      32.0        32.0     2.0     2.0
+2025-12-30    Tuesday         31    3.0      31.0        31.0     1.0     1.0
+2025-12-31  Wednesday         30    2.0      30.0        30.0     5.0    28.0
+
+[2220 rows x 7 columns]",TRUE,09:20:00,22363.35,22300CE,60.55,False,,59.84,,,False,,False,,0.0,,,False,,False,,0.0,,,False,,False,,0.0,22250PE,57.95,True,09:23:00,-9.27,22250PE,61.4,False,,False,,0.0,,,False,,False,,0.0,,,False,,False,,0.0,50.57000000000001
+2024-05-16,Thursday,"                  Day  BANKNIFTY  NIFTY  FINNIFTY  MIDCPNIFTY  SENSEX  BANKEX
+Date                                                                         
+2017-01-02     Monday          4    NaN       NaN         NaN     NaN     NaN
+2017-01-03    Tuesday          3    NaN       NaN         NaN     NaN     NaN
+2017-01-04  Wednesday          2    NaN       NaN         NaN     NaN     NaN
+2017-01-05   Thursday          1    NaN       NaN         NaN     NaN     NaN
+2017-01-06     Friday          5    NaN       NaN         NaN     NaN     NaN
+...               ...        ...    ...       ...         ...     ...     ...
+2025-12-24  Wednesday          1    1.0       1.0         1.0     4.0     4.0
+2025-12-26     Friday         33    5.0      33.0        33.0     3.0     3.0
+2025-12-29     Monday         32    4.0      32.0        32.0     2.0     2.0
+2025-12-30    Tuesday         31    3.0      31.0        31.0     1.0     1.0
+2025-12-31  Wednesday         30    2.0      30.0        30.0     5.0    28.0
+
+[2220 rows x 7 columns]",TRUE,09:20:00,22373.0,22300CE,52.55,True,09:21:00,-8.41,22300CE,61.95,True,09:31:00,True,14:53:00,-8.92,22350CE,23.35,True,14:54:00,True,14:56:00,-3.36,22350CE,27.45,True,14:57:00,True,14:58:00,-3.95,22300PE,68.35,True,09:32:00,-10.94,22250PE,65.55,True,12:11:00,True,12:26:00,-9.44,22200PE,48.75,True,14:33:00,True,14:35:00,-7.02,22150PE,25.3,True,14:36:00,False,,22.49,-29.549999999999997
+2024-05-23,Thursday,"                  Day  BANKNIFTY  NIFTY  FINNIFTY  MIDCPNIFTY  SENSEX  BANKEX
+Date                                                                         
+2017-01-02     Monday          4    NaN       NaN         NaN     NaN     NaN
+2017-01-03    Tuesday          3    NaN       NaN         NaN     NaN     NaN
+2017-01-04  Wednesday          2    NaN       NaN         NaN     NaN     NaN
+2017-01-05   Thursday          1    NaN       NaN         NaN     NaN     NaN
+2017-01-06     Friday          5    NaN       NaN         NaN     NaN     NaN
+...               ...        ...    ...       ...         ...     ...     ...
+2025-12-24  Wednesday          1    1.0       1.0         1.0     4.0     4.0
+2025-12-26     Friday         33    5.0      33.0        33.0     3.0     3.0
+2025-12-29     Monday         32    4.0      32.0        32.0     2.0     2.0
+2025-12-30    Tuesday         31    3.0      31.0        31.0     1.0     1.0
+2025-12-31  Wednesday         30    2.0      30.0        30.0     5.0    28.0
+
+[2220 rows x 7 columns]",TRUE,09:20:00,22666.7,22600CE,70.65,True,09:34:00,-11.3,22650CE,65.25,False,,False,,0.0,,,False,,False,,0.0,,,False,,False,,0.0,22600PE,61.9,True,09:29:00,-9.9,22600PE,68.8,True,09:33:00,False,,61.25,,,False,,False,,0.0,,,False,,False,,0.0,40.05
+2024-05-30,Thursday,"                  Day  BANKNIFTY  NIFTY  FINNIFTY  MIDCPNIFTY  SENSEX  BANKEX
+Date                                                                         
+2017-01-02     Monday          4    NaN       NaN         NaN     NaN     NaN
+2017-01-03    Tuesday          3    NaN       NaN         NaN     NaN     NaN
+2017-01-04  Wednesday          2    NaN       NaN         NaN     NaN     NaN
+2017-01-05   Thursday          1    NaN       NaN         NaN     NaN     NaN
+2017-01-06     Friday          5    NaN       NaN         NaN     NaN     NaN
+...               ...        ...    ...       ...         ...     ...     ...
+2025-12-24  Wednesday          1    1.0       1.0         1.0     4.0     4.0
+2025-12-26     Friday         33    5.0      33.0        33.0     3.0     3.0
+2025-12-29     Monday         32    4.0      32.0        32.0     2.0     2.0
+2025-12-30    Tuesday         31    3.0      31.0        31.0     1.0     1.0
+2025-12-31  Wednesday         30    2.0      30.0        30.0     5.0    28.0
+
+[2220 rows x 7 columns]",TRUE,09:20:00,22689.0,22750CE,59.2,False,,58.51,,,False,,False,,0.0,,,False,,False,,0.0,,,False,,False,,0.0,22600PE,50.95,True,09:22:00,-8.15,22600PE,56.2,True,12:48:00,True,13:19:00,-8.09,22550PE,33.9,True,13:20:00,True,13:23:00,-4.88,22550PE,34.4,True,13:25:00,True,13:27:00,-4.95,32.44
+2024-06-06,Thursday,"                  Day  BANKNIFTY  NIFTY  FINNIFTY  MIDCPNIFTY  SENSEX  BANKEX
+Date                                                                         
+2017-01-02     Monday          4    NaN       NaN         NaN     NaN     NaN
+2017-01-03    Tuesday          3    NaN       NaN         NaN     NaN     NaN
+2017-01-04  Wednesday          2    NaN       NaN         NaN     NaN     NaN
+2017-01-05   Thursday          1    NaN       NaN         NaN     NaN     NaN
+2017-01-06     Friday          5    NaN       NaN         NaN     NaN     NaN
+...               ...        ...    ...       ...         ...     ...     ...
+2025-12-24  Wednesday          1    1.0       1.0         1.0     4.0     4.0
+2025-12-26     Friday         33    5.0      33.0        33.0     3.0     3.0
+2025-12-29     Monday         32    4.0      32.0        32.0     2.0     2.0
+2025-12-30    Tuesday         31    3.0      31.0        31.0     1.0     1.0
+2025-12-31  Wednesday         30    2.0      30.0        30.0     5.0    28.0
+
+[2220 rows x 7 columns]",TRUE,09:20:00,22720.0,22850CE,57.25,True,09:21:00,-9.16,22850CE,65.0,True,09:24:00,True,09:30:00,-9.36,22850CE,59.2,True,09:48:00,True,09:52:00,-8.52,22850CE,61.55,True,09:58:00,True,10:03:00,-8.86,22450PE,55.75,True,09:21:00,-8.92,22500PE,63.65,True,09:22:00,True,09:26:00,-9.17,22450PE,53.3,True,09:27:00,True,09:28:00,-7.68,22550PE,66.0,True,09:29:00,False,,58.76,-2.9100000000000037
+2024-06-13,Thursday,"                  Day  BANKNIFTY  NIFTY  FINNIFTY  MIDCPNIFTY  SENSEX  BANKEX
+Date                                                                         
+2017-01-02     Monday          4    NaN       NaN         NaN     NaN     NaN
+2017-01-03    Tuesday          3    NaN       NaN         NaN     NaN     NaN
+2017-01-04  Wednesday          2    NaN       NaN         NaN     NaN     NaN
+2017-01-05   Thursday          1    NaN       NaN         NaN     NaN     NaN
+2017-01-06     Friday          5    NaN       NaN         NaN     NaN     NaN
+...               ...        ...    ...       ...         ...     ...     ...
+2025-12-24  Wednesday          1    1.0       1.0         1.0     4.0     4.0
+2025-12-26     Friday         33    5.0      33.0        33.0     3.0     3.0
+2025-12-29     Monday         32    4.0      32.0        32.0     2.0     2.0
+2025-12-30    Tuesday         31    3.0      31.0        31.0     1.0     1.0
+2025-12-31  Wednesday         30    2.0      30.0        30.0     5.0    28.0
+
+[2220 rows x 7 columns]",TRUE,09:20:00,23450.0,23450CE,53.65,False,,53.06,,,False,,False,,0.0,,,False,,False,,0.0,,,False,,False,,0.0,23450PE,71.9,True,09:31:00,-11.5,23400PE,57.4,True,09:32:00,True,09:35:00,-8.27,23400PE,58.6,True,10:01:00,True,10:02:00,-8.44,23400PE,60.75,True,10:09:00,True,10:32:00,-8.75,16.1
+2024-06-20,Thursday,"                  Day  BANKNIFTY  NIFTY  FINNIFTY  MIDCPNIFTY  SENSEX  BANKEX
+Date                                                                         
+2017-01-02     Monday          4    NaN       NaN         NaN     NaN     NaN
+2017-01-03    Tuesday          3    NaN       NaN         NaN     NaN     NaN
+2017-01-04  Wednesday          2    NaN       NaN         NaN     NaN     NaN
+2017-01-05   Thursday          1    NaN       NaN         NaN     NaN     NaN
+2017-01-06     Friday          5    NaN       NaN         NaN     NaN     NaN
+...               ...        ...    ...       ...         ...     ...     ...
+2025-12-24  Wednesday          1    1.0       1.0         1.0     4.0     4.0
+2025-12-26     Friday         33    5.0      33.0        33.0     3.0     3.0
+2025-12-29     Monday         32    4.0      32.0        32.0     2.0     2.0
+2025-12-30    Tuesday         31    3.0      31.0        31.0     1.0     1.0
+2025-12-31  Wednesday         30    2.0      30.0        30.0     5.0    28.0
+
+[2220 rows x 7 columns]",TRUE,09:20:00,23481.05,23500CE,67.35,True,09:26:00,-10.78,23500CE,79.25,True,09:28:00,True,09:33:00,-11.41,23500CE,72.7,True,09:34:00,True,11:56:00,-10.47,23550CE,37.65,True,12:02:00,True,12:07:00,-5.42,23450PE,68.5,True,09:23:00,-10.96,23400PE,61.3,True,09:25:00,True,09:56:00,-8.83,23400PE,57.45,True,09:58:00,False,,51.14,,,False,,False,,0.0,-6.729999999999997
+2024-06-27,Thursday,"                  Day  BANKNIFTY  NIFTY  FINNIFTY  MIDCPNIFTY  SENSEX  BANKEX
+Date                                                                         
+2017-01-02     Monday          4    NaN       NaN         NaN     NaN     NaN
+2017-01-03    Tuesday          3    NaN       NaN         NaN     NaN     NaN
+2017-01-04  Wednesday          2    NaN       NaN         NaN     NaN     NaN
+2017-01-05   Thursday          1    NaN       NaN         NaN     NaN     NaN
+2017-01-06     Friday          5    NaN       NaN         NaN     NaN     NaN
+...               ...        ...    ...       ...         ...     ...     ...
+2025-12-24  Wednesday          1    1.0       1.0         1.0     4.0     4.0
+2025-12-26     Friday         33    5.0      33.0        33.0     3.0     3.0
+2025-12-29     Monday         32    4.0      32.0        32.0     2.0     2.0
+2025-12-30    Tuesday         31    3.0      31.0        31.0     1.0     1.0
+2025-12-31  Wednesday         30    2.0      30.0        30.0     5.0    28.0
+
+[2220 rows x 7 columns]",TRUE,09:20:00,23840.0,23850CE,65.5,True,09:38:00,-10.48,23850CE,63.15,False,,False,,0.0,,,False,,False,,0.0,,,False,,False,,0.0,23800PE,55.65,True,09:28:00,-8.9,23800PE,63.95,True,09:38:00,False,,56.88,,,False,,False,,0.0,,,False,,False,,0.0,37.5
+2024-07-04,Thursday,"                  Day  BANKNIFTY  NIFTY  FINNIFTY  MIDCPNIFTY  SENSEX  BANKEX
+Date                                                                         
+2017-01-02     Monday          4    NaN       NaN         NaN     NaN     NaN
+2017-01-03    Tuesday          3    NaN       NaN         NaN     NaN     NaN
+2017-01-04  Wednesday          2    NaN       NaN         NaN     NaN     NaN
+2017-01-05   Thursday          1    NaN       NaN         NaN     NaN     NaN
+2017-01-06     Friday          5    NaN       NaN         NaN     NaN     NaN
+...               ...        ...    ...       ...         ...     ...     ...
+2025-12-24  Wednesday          1    1.0       1.0         1.0     4.0     4.0
+2025-12-26     Friday         33    5.0      33.0        33.0     3.0     3.0
+2025-12-29     Monday         32    4.0      32.0        32.0     2.0     2.0
+2025-12-30    Tuesday         31    3.0      31.0        31.0     1.0     1.0
+2025-12-31  Wednesday         30    2.0      30.0        30.0     5.0    28.0
+
+[2220 rows x 7 columns]",TRUE,09:20:00,24398.0,24350CE,51.6,True,09:23:00,-8.26,24350CE,63.95,True,09:24:00,True,09:44:00,-9.21,24400CE,48.0,True,09:47:00,True,09:49:00,-6.91,24400CE,46.35,True,09:54:00,True,09:59:00,-6.67,24350PE,65.8,False,,17.29,,,False,,False,,0.0,,,False,,False,,0.0,,,False,,False,,0.0,-13.759999999999998
+2024-07-11,Thursday,"                  Day  BANKNIFTY  NIFTY  FINNIFTY  MIDCPNIFTY  SENSEX  BANKEX
+Date                                                                         
+2017-01-02     Monday          4    NaN       NaN         NaN     NaN     NaN
+2017-01-03    Tuesday          3    NaN       NaN         NaN     NaN     NaN
+2017-01-04  Wednesday          2    NaN       NaN         NaN     NaN     NaN
+2017-01-05   Thursday          1    NaN       NaN         NaN     NaN     NaN
+2017-01-06     Friday          5    NaN       NaN         NaN     NaN     NaN
+...               ...        ...    ...       ...         ...     ...     ...
+2025-12-24  Wednesday          1    1.0       1.0         1.0     4.0     4.0
+2025-12-26     Friday         33    5.0      33.0        33.0     3.0     3.0
+2025-12-29     Monday         32    4.0      32.0        32.0     2.0     2.0
+2025-12-30    Tuesday         31    3.0      31.0        31.0     1.0     1.0
+2025-12-31  Wednesday         30    2.0      30.0        30.0     5.0    28.0
+
+[2220 rows x 7 columns]",TRUE,09:20:00,24379.05,24350CE,49.5,False,,48.96,,,False,,False,,0.0,,,False,,False,,0.0,,,False,,False,,0.0,24350PE,52.45,True,09:27:00,-8.39,24350PE,57.65,True,09:28:00,True,09:32:00,-8.3,24300PE,42.05,True,09:35:00,True,09:38:00,-6.06,24300PE,45.65,True,09:39:00,True,10:13:00,-6.57,19.64
+2024-07-18,Thursday,"                  Day  BANKNIFTY  NIFTY  FINNIFTY  MIDCPNIFTY  SENSEX  BANKEX
+Date                                                                         
+2017-01-02     Monday          4    NaN       NaN         NaN     NaN     NaN
+2017-01-03    Tuesday          3    NaN       NaN         NaN     NaN     NaN
+2017-01-04  Wednesday          2    NaN       NaN         NaN     NaN     NaN
+2017-01-05   Thursday          1    NaN       NaN         NaN     NaN     NaN
+2017-01-06     Friday          5    NaN       NaN         NaN     NaN     NaN
+...               ...        ...    ...       ...         ...     ...     ...
+2025-12-24  Wednesday          1    1.0       1.0         1.0     4.0     4.0
+2025-12-26     Friday         33    5.0      33.0        33.0     3.0     3.0
+2025-12-29     Monday         32    4.0      32.0        32.0     2.0     2.0
+2025-12-30    Tuesday         31    3.0      31.0        31.0     1.0     1.0
+2025-12-31  Wednesday         30    2.0      30.0        30.0     5.0    28.0
+
+[2220 rows x 7 columns]",TRUE,09:20:00,24578.95,24550CE,60.85,True,09:44:00,-9.74,24600CE,42.9,True,11:12:00,True,12:12:00,-6.18,24600CE,60.35,True,12:13:00,True,12:14:00,-8.69,24600CE,62.25,True,12:15:00,True,12:16:00,-8.96,24550PE,44.75,True,09:24:00,-7.16,24550PE,50.95,True,09:37:00,True,11:13:00,-7.34,24550PE,55.1,True,11:14:00,True,11:15:00,-7.93,24550PE,58.85,True,11:17:00,True,11:33:00,-8.47,-64.47
+2024-07-25,Thursday,"                  Day  BANKNIFTY  NIFTY  FINNIFTY  MIDCPNIFTY  SENSEX  BANKEX
+Date                                                                         
+2017-01-02     Monday          4    NaN       NaN         NaN     NaN     NaN
+2017-01-03    Tuesday          3    NaN       NaN         NaN     NaN     NaN
+2017-01-04  Wednesday          2    NaN       NaN         NaN     NaN     NaN
+2017-01-05   Thursday          1    NaN       NaN         NaN     NaN     NaN
+2017-01-06     Friday          5    NaN       NaN         NaN     NaN     NaN
+...               ...        ...    ...       ...         ...     ...     ...
+2025-12-24  Wednesday          1    1.0       1.0         1.0     4.0     4.0
+2025-12-26     Friday         33    5.0      33.0        33.0     3.0     3.0
+2025-12-29     Monday         32    4.0      32.0        32.0     2.0     2.0
+2025-12-30    Tuesday         31    3.0      31.0        31.0     1.0     1.0
+2025-12-31  Wednesday         30    2.0      30.0        30.0     5.0    28.0
+
+[2220 rows x 7 columns]",TRUE,09:20:00,24215.0,24250CE,56.9,True,09:38:00,-9.1,24300CE,49.4,True,09:42:00,True,10:35:00,-7.11,24300CE,45.35,True,10:36:00,True,10:52:00,-6.53,24300CE,45.7,True,10:53:00,True,10:56:00,-6.58,24200PE,68.2,False,,67.47,,,False,,False,,0.0,,,False,,False,,0.0,,,False,,False,,0.0,38.15
+2024-08-01,Thursday,"                  Day  BANKNIFTY  NIFTY  FINNIFTY  MIDCPNIFTY  SENSEX  BANKEX
+Date                                                                         
+2017-01-02     Monday          4    NaN       NaN         NaN     NaN     NaN
+2017-01-03    Tuesday          3    NaN       NaN         NaN     NaN     NaN
+2017-01-04  Wednesday          2    NaN       NaN         NaN     NaN     NaN
+2017-01-05   Thursday          1    NaN       NaN         NaN     NaN     NaN
+2017-01-06     Friday          5    NaN       NaN         NaN     NaN     NaN
+...               ...        ...    ...       ...         ...     ...     ...
+2025-12-24  Wednesday          1    1.0       1.0         1.0     4.0     4.0
+2025-12-26     Friday         33    5.0      33.0        33.0     3.0     3.0
+2025-12-29     Monday         32    4.0      32.0        32.0     2.0     2.0
+2025-12-30    Tuesday         31    3.0      31.0        31.0     1.0     1.0
+2025-12-31  Wednesday         30    2.0      30.0        30.0     5.0    28.0
+
+[2220 rows x 7 columns]",TRUE,09:20:00,25102.0,25050CE,65.15,True,09:21:00,-10.42,25100CE,51.25,True,09:23:00,False,,45.61,,,False,,False,,0.0,,,False,,False,,0.0,25050PE,58.15,True,12:22:00,-9.3,25000PE,32.65,True,12:48:00,True,12:49:00,-4.7,25000PE,33.95,True,12:57:00,True,14:31:00,-4.89,25000PE,30.0,True,14:34:00,True,14:35:00,-4.32,11.979999999999997
+2024-08-08,Thursday,"                  Day  BANKNIFTY  NIFTY  FINNIFTY  MIDCPNIFTY  SENSEX  BANKEX
+Date                                                                         
+2017-01-02     Monday          4    NaN       NaN         NaN     NaN     NaN
+2017-01-03    Tuesday          3    NaN       NaN         NaN     NaN     NaN
+2017-01-04  Wednesday          2    NaN       NaN         NaN     NaN     NaN
+2017-01-05   Thursday          1    NaN       NaN         NaN     NaN     NaN
+2017-01-06     Friday          5    NaN       NaN         NaN     NaN     NaN
+...               ...        ...    ...       ...         ...     ...     ...
+2025-12-24  Wednesday          1    1.0       1.0         1.0     4.0     4.0
+2025-12-26     Friday         33    5.0      33.0        33.0     3.0     3.0
+2025-12-29     Monday         32    4.0      32.0        32.0     2.0     2.0
+2025-12-30    Tuesday         31    3.0      31.0        31.0     1.0     1.0
+2025-12-31  Wednesday         30    2.0      30.0        30.0     5.0    28.0
+
+[2220 rows x 7 columns]",TRUE,09:20:00,24240.15,24250CE,76.95,True,09:25:00,-12.31,24300CE,65.2,True,10:00:00,True,10:28:00,-9.39,24300CE,64.8,True,10:29:00,True,12:13:00,-9.33,24300CE,72.6,True,12:40:00,True,12:41:00,-10.45,24150PE,68.35,True,09:35:00,-10.94,24100PE,69.8,True,09:36:00,True,10:06:00,-10.05,24050PE,70.0,True,10:07:00,True,10:09:00,-10.08,24050PE,71.9,True,10:10:00,False,,63.96,-8.590000000000003
+2024-08-14,Wednesday,"                  Day  BANKNIFTY  NIFTY  FINNIFTY  MIDCPNIFTY  SENSEX  BANKEX
+Date                                                                         
+2017-01-02     Monday          4    NaN       NaN         NaN     NaN     NaN
+2017-01-03    Tuesday          3    NaN       NaN         NaN     NaN     NaN
+2017-01-04  Wednesday          2    NaN       NaN         NaN     NaN     NaN
+2017-01-05   Thursday          1    NaN       NaN         NaN     NaN     NaN
+2017-01-06     Friday          5    NaN       NaN         NaN     NaN     NaN
+...               ...        ...    ...       ...         ...     ...     ...
+2025-12-24  Wednesday          1    1.0       1.0         1.0     4.0     4.0
+2025-12-26     Friday         33    5.0      33.0        33.0     3.0     3.0
+2025-12-29     Monday         32    4.0      32.0        32.0     2.0     2.0
+2025-12-30    Tuesday         31    3.0      31.0        31.0     1.0     1.0
+2025-12-31  Wednesday         30    2.0      30.0        30.0     5.0    28.0
+
+[2220 rows x 7 columns]",TRUE,09:20:00,24156.6,24150CE,62.4,True,09:22:00,-9.98,24150CE,70.0,True,09:24:00,False,,62.32,,,False,,False,,0.0,,,False,,False,,0.0,24150PE,66.55,True,09:36:00,-10.65,24100PE,49.5,True,09:37:00,False,,44.05,,,False,,False,,0.0,,,False,,False,,0.0,85.74000000000001
+2024-08-22,Thursday,"                  Day  BANKNIFTY  NIFTY  FINNIFTY  MIDCPNIFTY  SENSEX  BANKEX
+Date                                                                         
+2017-01-02     Monday          4    NaN       NaN         NaN     NaN     NaN
+2017-01-03    Tuesday          3    NaN       NaN         NaN     NaN     NaN
+2017-01-04  Wednesday          2    NaN       NaN         NaN     NaN     NaN
+2017-01-05   Thursday          1    NaN       NaN         NaN     NaN     NaN
+2017-01-06     Friday          5    NaN       NaN         NaN     NaN     NaN
+...               ...        ...    ...       ...         ...     ...     ...
+2025-12-24  Wednesday          1    1.0       1.0         1.0     4.0     4.0
+2025-12-26     Friday         33    5.0      33.0        33.0     3.0     3.0
+2025-12-29     Monday         32    4.0      32.0        32.0     2.0     2.0
+2025-12-30    Tuesday         31    3.0      31.0        31.0     1.0     1.0
+2025-12-31  Wednesday         30    2.0      30.0        30.0     5.0    28.0
+
+[2220 rows x 7 columns]",TRUE,09:20:00,24819.3,24800CE,51.8,True,09:30:00,-8.29,24850CE,37.2,True,09:32:00,False,,33.1,,,False,,False,,0.0,,,False,,False,,0.0,24800PE,59.1,False,,58.36,,,False,,False,,0.0,,,False,,False,,0.0,,,False,,False,,0.0,83.17
+2024-08-29,Thursday,"                  Day  BANKNIFTY  NIFTY  FINNIFTY  MIDCPNIFTY  SENSEX  BANKEX
+Date                                                                         
+2017-01-02     Monday          4    NaN       NaN         NaN     NaN     NaN
+2017-01-03    Tuesday          3    NaN       NaN         NaN     NaN     NaN
+2017-01-04  Wednesday          2    NaN       NaN         NaN     NaN     NaN
+2017-01-05   Thursday          1    NaN       NaN         NaN     NaN     NaN
+2017-01-06     Friday          5    NaN       NaN         NaN     NaN     NaN
+...               ...        ...    ...       ...         ...     ...     ...
+2025-12-24  Wednesday          1    1.0       1.0         1.0     4.0     4.0
+2025-12-26     Friday         33    5.0      33.0        33.0     3.0     3.0
+2025-12-29     Monday         32    4.0      32.0        32.0     2.0     2.0
+2025-12-30    Tuesday         31    3.0      31.0        31.0     1.0     1.0
+2025-12-31  Wednesday         30    2.0      30.0        30.0     5.0    28.0
+
+[2220 rows x 7 columns]",TRUE,09:20:00,25044.0,25050CE,51.65,True,09:25:00,-8.26,25050CE,65.15,True,09:26:00,True,09:41:00,-9.38,25100CE,41.8,True,09:43:00,True,09:48:00,-6.02,25100CE,48.7,True,10:40:00,True,12:28:00,-7.01,25050PE,59.05,True,14:02:00,-9.45,25100PE,64.4,True,14:12:00,True,14:18:00,-9.27,25050PE,35.45,True,14:19:00,True,14:21:00,-5.1,25000PE,36.75,True,14:22:00,True,14:23:00,-5.29,-59.78
+2024-09-05,Thursday,"                  Day  BANKNIFTY  NIFTY  FINNIFTY  MIDCPNIFTY  SENSEX  BANKEX
+Date                                                                         
+2017-01-02     Monday          4    NaN       NaN         NaN     NaN     NaN
+2017-01-03    Tuesday          3    NaN       NaN         NaN     NaN     NaN
+2017-01-04  Wednesday          2    NaN       NaN         NaN     NaN     NaN
+2017-01-05   Thursday          1    NaN       NaN         NaN     NaN     NaN
+2017-01-06     Friday          5    NaN       NaN         NaN     NaN     NaN
+...               ...        ...    ...       ...         ...     ...     ...
+2025-12-24  Wednesday          1    1.0       1.0         1.0     4.0     4.0
+2025-12-26     Friday         33    5.0      33.0        33.0     3.0     3.0
+2025-12-29     Monday         32    4.0      32.0        32.0     2.0     2.0
+2025-12-30    Tuesday         31    3.0      31.0        31.0     1.0     1.0
+2025-12-31  Wednesday         30    2.0      30.0        30.0     5.0    28.0
+
+[2220 rows x 7 columns]",TRUE,09:20:00,25323.65,25250CE,61.0,False,,60.34,,,False,,False,,0.0,,,False,,False,,0.0,,,False,,False,,0.0,25250PE,57.0,True,09:22:00,-9.12,25250PE,62.2,False,,False,,0.0,,,False,,False,,0.0,,,False,,False,,0.0,51.220000000000006
+2024-09-12,Thursday,"                  Day  BANKNIFTY  NIFTY  FINNIFTY  MIDCPNIFTY  SENSEX  BANKEX
+Date                                                                         
+2017-01-02     Monday          4    NaN       NaN         NaN     NaN     NaN
+2017-01-03    Tuesday          3    NaN       NaN         NaN     NaN     NaN
+2017-01-04  Wednesday          2    NaN       NaN         NaN     NaN     NaN
+2017-01-05   Thursday          1    NaN       NaN         NaN     NaN     NaN
+2017-01-06     Friday          5    NaN       NaN         NaN     NaN     NaN
+...               ...        ...    ...       ...         ...     ...     ...
+2025-12-24  Wednesday          1    1.0       1.0         1.0     4.0     4.0
+2025-12-26     Friday         33    5.0      33.0        33.0     3.0     3.0
+2025-12-29     Monday         32    4.0      32.0        32.0     2.0     2.0
+2025-12-30    Tuesday         31    3.0      31.0        31.0     1.0     1.0
+2025-12-31  Wednesday         30    2.0      30.0        30.0     5.0    28.0
+
+[2220 rows x 7 columns]",TRUE,09:20:00,25059.5,25000CE,58.3,True,09:21:00,-9.33,25050CE,49.9,True,09:22:00,True,09:25:00,-7.19,25050CE,58.6,True,09:29:00,True,09:30:00,-8.44,25050CE,56.95,True,09:31:00,True,14:01:00,-8.2,25000PE,46.7,True,09:31:00,-7.47,25000PE,52.0,True,09:32:00,True,09:34:00,-7.49,25000PE,51.5,True,09:37:00,True,09:38:00,-7.42,25000PE,48.0,True,09:41:00,True,09:52:00,-6.91,-62.45
+2024-09-19,Thursday,"                  Day  BANKNIFTY  NIFTY  FINNIFTY  MIDCPNIFTY  SENSEX  BANKEX
+Date                                                                         
+2017-01-02     Monday          4    NaN       NaN         NaN     NaN     NaN
+2017-01-03    Tuesday          3    NaN       NaN         NaN     NaN     NaN
+2017-01-04  Wednesday          2    NaN       NaN         NaN     NaN     NaN
+2017-01-05   Thursday          1    NaN       NaN         NaN     NaN     NaN
+2017-01-06     Friday          5    NaN       NaN         NaN     NaN     NaN
+...               ...        ...    ...       ...         ...     ...     ...
+2025-12-24  Wednesday          1    1.0       1.0         1.0     4.0     4.0
+2025-12-26     Friday         33    5.0      33.0        33.0     3.0     3.0
+2025-12-29     Monday         32    4.0      32.0        32.0     2.0     2.0
+2025-12-30    Tuesday         31    3.0      31.0        31.0     1.0     1.0
+2025-12-31  Wednesday         30    2.0      30.0        30.0     5.0    28.0
+
+[2220 rows x 7 columns]",TRUE,09:20:00,25610.0,25600CE,54.85,True,09:41:00,-8.78,25600CE,47.75,True,09:48:00,False,,42.5,,,False,,False,,0.0,,,False,,False,,0.0,25600PE,65.0,True,09:23:00,-10.4,25550PE,63.8,True,09:24:00,True,10:07:00,-9.19,25500PE,40.6,True,10:08:00,True,11:22:00,-5.85,25500PE,46.45,True,11:24:00,True,11:25:00,-6.69,1.5900000000000034
+2024-09-26,Thursday,"                  Day  BANKNIFTY  NIFTY  FINNIFTY  MIDCPNIFTY  SENSEX  BANKEX
+Date                                                                         
+2017-01-02     Monday          4    NaN       NaN         NaN     NaN     NaN
+2017-01-03    Tuesday          3    NaN       NaN         NaN     NaN     NaN
+2017-01-04  Wednesday          2    NaN       NaN         NaN     NaN     NaN
+2017-01-05   Thursday          1    NaN       NaN         NaN     NaN     NaN
+2017-01-06     Friday          5    NaN       NaN         NaN     NaN     NaN
+...               ...        ...    ...       ...         ...     ...     ...
+2025-12-24  Wednesday          1    1.0       1.0         1.0     4.0     4.0
+2025-12-26     Friday         33    5.0      33.0        33.0     3.0     3.0
+2025-12-29     Monday         32    4.0      32.0        32.0     2.0     2.0
+2025-12-30    Tuesday         31    3.0      31.0        31.0     1.0     1.0
+2025-12-31  Wednesday         30    2.0      30.0        30.0     5.0    28.0
+
+[2220 rows x 7 columns]",TRUE,09:20:00,26060.95,26050CE,69.5,True,10:09:00,-11.12,26100CE,57.75,True,10:10:00,True,10:42:00,-8.32,26100CE,65.4,True,10:44:00,True,12:20:00,-9.42,26100CE,65.65,True,12:22:00,True,13:10:00,-9.45,26050PE,60.25,True,09:31:00,-9.64,26050PE,73.55,True,09:32:00,True,13:10:00,-10.59,26100PE,65.0,True,13:11:00,True,13:40:00,-9.36,26100PE,62.0,True,14:15:00,False,,55.09,-12.809999999999999
+2024-10-03,Thursday,"                  Day  BANKNIFTY  NIFTY  FINNIFTY  MIDCPNIFTY  SENSEX  BANKEX
+Date                                                                         
+2017-01-02     Monday          4    NaN       NaN         NaN     NaN     NaN
+2017-01-03    Tuesday          3    NaN       NaN         NaN     NaN     NaN
+2017-01-04  Wednesday          2    NaN       NaN         NaN     NaN     NaN
+2017-01-05   Thursday          1    NaN       NaN         NaN     NaN     NaN
+2017-01-06     Friday          5    NaN       NaN         NaN     NaN     NaN
+...               ...        ...    ...       ...         ...     ...     ...
+2025-12-24  Wednesday          1    1.0       1.0         1.0     4.0     4.0
+2025-12-26     Friday         33    5.0      33.0        33.0     3.0     3.0
+2025-12-29     Monday         32    4.0      32.0        32.0     2.0     2.0
+2025-12-30    Tuesday         31    3.0      31.0        31.0     1.0     1.0
+2025-12-31  Wednesday         30    2.0      30.0        30.0     5.0    28.0
+
+[2220 rows x 7 columns]",TRUE,09:20:00,25718.35,25550CE,74.8,True,09:23:00,-11.97,25550CE,84.85,True,09:24:00,True,09:27:00,-12.22,25600CE,73.35,True,09:28:00,True,09:29:00,-10.56,25600CE,65.65,True,09:30:00,True,09:31:00,-9.45,25550PE,83.0,True,10:18:00,-13.28,25500PE,61.4,True,10:21:00,True,10:53:00,-8.84,25500PE,61.75,True,10:55:00,True,11:00:00,-8.89,25500PE,63.15,False,,False,,0.0,-75.21000000000001
+2024-10-10,Thursday,"                  Day  BANKNIFTY  NIFTY  FINNIFTY  MIDCPNIFTY  SENSEX  BANKEX
+Date                                                                         
+2017-01-02     Monday          4    NaN       NaN         NaN     NaN     NaN
+2017-01-03    Tuesday          3    NaN       NaN         NaN     NaN     NaN
+2017-01-04  Wednesday          2    NaN       NaN         NaN     NaN     NaN
+2017-01-05   Thursday          1    NaN       NaN         NaN     NaN     NaN
+2017-01-06     Friday          5    NaN       NaN         NaN     NaN     NaN
+...               ...        ...    ...       ...         ...     ...     ...
+2025-12-24  Wednesday          1    1.0       1.0         1.0     4.0     4.0
+2025-12-26     Friday         33    5.0      33.0        33.0     3.0     3.0
+2025-12-29     Monday         32    4.0      32.0        32.0     2.0     2.0
+2025-12-30    Tuesday         31    3.0      31.0        31.0     1.0     1.0
+2025-12-31  Wednesday         30    2.0      30.0        30.0     5.0    28.0
+
+[2220 rows x 7 columns]",TRUE,09:20:00,25162.5,25050CE,70.1,True,10:05:00,-11.22,25100CE,66.1,True,10:06:00,False,,58.8,,,False,,False,,0.0,,,False,,False,,0.0,25000PE,62.9,True,09:26:00,-10.06,25000PE,68.15,True,09:28:00,False,,54.27,,,False,,False,,0.0,,,False,,False,,0.0,91.78999999999999
+2024-10-17,Thursday,"                  Day  BANKNIFTY  NIFTY  FINNIFTY  MIDCPNIFTY  SENSEX  BANKEX
+Date                                                                         
+2017-01-02     Monday          4    NaN       NaN         NaN     NaN     NaN
+2017-01-03    Tuesday          3    NaN       NaN         NaN     NaN     NaN
+2017-01-04  Wednesday          2    NaN       NaN         NaN     NaN     NaN
+2017-01-05   Thursday          1    NaN       NaN         NaN     NaN     NaN
+2017-01-06     Friday          5    NaN       NaN         NaN     NaN     NaN
+...               ...        ...    ...       ...         ...     ...     ...
+2025-12-24  Wednesday          1    1.0       1.0         1.0     4.0     4.0
+2025-12-26     Friday         33    5.0      33.0        33.0     3.0     3.0
+2025-12-29     Monday         32    4.0      32.0        32.0     2.0     2.0
+2025-12-30    Tuesday         31    3.0      31.0        31.0     1.0     1.0
+2025-12-31  Wednesday         30    2.0      30.0        30.0     5.0    28.0
+
+[2220 rows x 7 columns]",TRUE,09:20:00,25011.6,24950CE,59.1,False,,58.46,,,False,,False,,0.0,,,False,,False,,0.0,,,False,,False,,0.0,24950PE,63.2,True,09:27:00,-10.11,24900PE,45.9,True,09:29:00,True,09:34:00,-6.61,24900PE,53.5,False,,False,,0.0,,,False,,False,,0.0,41.74
+2024-10-24,Thursday,"                  Day  BANKNIFTY  NIFTY  FINNIFTY  MIDCPNIFTY  SENSEX  BANKEX
+Date                                                                         
+2017-01-02     Monday          4    NaN       NaN         NaN     NaN     NaN
+2017-01-03    Tuesday          3    NaN       NaN         NaN     NaN     NaN
+2017-01-04  Wednesday          2    NaN       NaN         NaN     NaN     NaN
+2017-01-05   Thursday          1    NaN       NaN         NaN     NaN     NaN
+2017-01-06     Friday          5    NaN       NaN         NaN     NaN     NaN
+...               ...        ...    ...       ...         ...     ...     ...
+2025-12-24  Wednesday          1    1.0       1.0         1.0     4.0     4.0
+2025-12-26     Friday         33    5.0      33.0        33.0     3.0     3.0
+2025-12-29     Monday         32    4.0      32.0        32.0     2.0     2.0
+2025-12-30    Tuesday         31    3.0      31.0        31.0     1.0     1.0
+2025-12-31  Wednesday         30    2.0      30.0        30.0     5.0    28.0
+
+[2220 rows x 7 columns]",TRUE,09:20:00,24474.3,24400CE,83.95,True,09:22:00,-13.43,24450CE,75.35,True,09:23:00,False,,67.09,,,False,,False,,0.0,,,False,,False,,0.0,24400PE,64.0,True,09:33:00,-10.24,24400PE,64.95,True,09:55:00,False,,57.67,,,False,,False,,0.0,,,False,,False,,0.0,101.09
+2024-10-31,Thursday,"                  Day  BANKNIFTY  NIFTY  FINNIFTY  MIDCPNIFTY  SENSEX  BANKEX
+Date                                                                         
+2017-01-02     Monday          4    NaN       NaN         NaN     NaN     NaN
+2017-01-03    Tuesday          3    NaN       NaN         NaN     NaN     NaN
+2017-01-04  Wednesday          2    NaN       NaN         NaN     NaN     NaN
+2017-01-05   Thursday          1    NaN       NaN         NaN     NaN     NaN
+2017-01-06     Friday          5    NaN       NaN         NaN     NaN     NaN
+...               ...        ...    ...       ...         ...     ...     ...
+2025-12-24  Wednesday          1    1.0       1.0         1.0     4.0     4.0
+2025-12-26     Friday         33    5.0      33.0        33.0     3.0     3.0
+2025-12-29     Monday         32    4.0      32.0        32.0     2.0     2.0
+2025-12-30    Tuesday         31    3.0      31.0        31.0     1.0     1.0
+2025-12-31  Wednesday         30    2.0      30.0        30.0     5.0    28.0
+
+[2220 rows x 7 columns]",TRUE,09:20:00,24333.35,24350CE,57.2,False,,56.53,,,False,,False,,0.0,,,False,,False,,0.0,,,False,,False,,0.0,24350PE,77.6,True,09:21:00,-12.42,24300PE,64.55,True,09:23:00,True,09:25:00,-9.3,24300PE,62.15,True,09:28:00,True,09:31:00,-8.95,24250PE,43.05,True,09:41:00,True,12:20:00,-6.2,19.660000000000004
+2024-11-07,Thursday,"                  Day  BANKNIFTY  NIFTY  FINNIFTY  MIDCPNIFTY  SENSEX  BANKEX
+Date                                                                         
+2017-01-02     Monday          4    NaN       NaN         NaN     NaN     NaN
+2017-01-03    Tuesday          3    NaN       NaN         NaN     NaN     NaN
+2017-01-04  Wednesday          2    NaN       NaN         NaN     NaN     NaN
+2017-01-05   Thursday          1    NaN       NaN         NaN     NaN     NaN
+2017-01-06     Friday          5    NaN       NaN         NaN     NaN     NaN
+...               ...        ...    ...       ...         ...     ...     ...
+2025-12-24  Wednesday          1    1.0       1.0         1.0     4.0     4.0
+2025-12-26     Friday         33    5.0      33.0        33.0     3.0     3.0
+2025-12-29     Monday         32    4.0      32.0        32.0     2.0     2.0
+2025-12-30    Tuesday         31    3.0      31.0        31.0     1.0     1.0
+2025-12-31  Wednesday         30    2.0      30.0        30.0     5.0    28.0
+
+[2220 rows x 7 columns]",TRUE,09:20:00,24548.0,24450CE,56.15,False,,55.54,,,False,,False,,0.0,,,False,,False,,0.0,,,False,,False,,0.0,24450PE,73.8,True,09:22:00,-11.81,24400PE,58.1,False,,False,,0.0,,,False,,False,,0.0,,,False,,False,,0.0,43.73
+2024-11-14,Thursday,"                  Day  BANKNIFTY  NIFTY  FINNIFTY  MIDCPNIFTY  SENSEX  BANKEX
+Date                                                                         
+2017-01-02     Monday          4    NaN       NaN         NaN     NaN     NaN
+2017-01-03    Tuesday          3    NaN       NaN         NaN     NaN     NaN
+2017-01-04  Wednesday          2    NaN       NaN         NaN     NaN     NaN
+2017-01-05   Thursday          1    NaN       NaN         NaN     NaN     NaN
+2017-01-06     Friday          5    NaN       NaN         NaN     NaN     NaN
+...               ...        ...    ...       ...         ...     ...     ...
+2025-12-24  Wednesday          1    1.0       1.0         1.0     4.0     4.0
+2025-12-26     Friday         33    5.0      33.0        33.0     3.0     3.0
+2025-12-29     Monday         32    4.0      32.0        32.0     2.0     2.0
+2025-12-30    Tuesday         31    3.0      31.0        31.0     1.0     1.0
+2025-12-31  Wednesday         30    2.0      30.0        30.0     5.0    28.0
+
+[2220 rows x 7 columns]",TRUE,09:20:00,23667.95,23650CE,59.55,True,09:23:00,-9.53,23650CE,68.45,True,09:26:00,True,10:02:00,-9.86,23650CE,69.7,True,10:07:00,False,,62.05,,,False,,False,,0.0,23500PE,57.6,True,09:41:00,-9.22,23500PE,66.85,True,09:42:00,False,,59.51,,,False,,False,,0.0,,,False,,False,,0.0,92.94999999999999
+2024-11-21,Thursday,"                  Day  BANKNIFTY  NIFTY  FINNIFTY  MIDCPNIFTY  SENSEX  BANKEX
+Date                                                                         
+2017-01-02     Monday          4    NaN       NaN         NaN     NaN     NaN
+2017-01-03    Tuesday          3    NaN       NaN         NaN     NaN     NaN
+2017-01-04  Wednesday          2    NaN       NaN         NaN     NaN     NaN
+2017-01-05   Thursday          1    NaN       NaN         NaN     NaN     NaN
+2017-01-06     Friday          5    NaN       NaN         NaN     NaN     NaN
+...               ...        ...    ...       ...         ...     ...     ...
+2025-12-24  Wednesday          1    1.0       1.0         1.0     4.0     4.0
+2025-12-26     Friday         33    5.0      33.0        33.0     3.0     3.0
+2025-12-29     Monday         32    4.0      32.0        32.0     2.0     2.0
+2025-12-30    Tuesday         31    3.0      31.0        31.0     1.0     1.0
+2025-12-31  Wednesday         30    2.0      30.0        30.0     5.0    28.0
+
+[2220 rows x 7 columns]",TRUE,09:20:00,23389.35,23400CE,72.65,False,,71.87,,,False,,False,,0.0,,,False,,False,,0.0,,,False,,False,,0.0,23300PE,71.55,True,09:40:00,-11.45,23250PE,53.4,True,09:41:00,False,,47.53,,,False,,False,,0.0,,,False,,False,,0.0,107.95
+2024-11-28,Thursday,"                  Day  BANKNIFTY  NIFTY  FINNIFTY  MIDCPNIFTY  SENSEX  BANKEX
+Date                                                                         
+2017-01-02     Monday          4    NaN       NaN         NaN     NaN     NaN
+2017-01-03    Tuesday          3    NaN       NaN         NaN     NaN     NaN
+2017-01-04  Wednesday          2    NaN       NaN         NaN     NaN     NaN
+2017-01-05   Thursday          1    NaN       NaN         NaN     NaN     NaN
+2017-01-06     Friday          5    NaN       NaN         NaN     NaN     NaN
+...               ...        ...    ...       ...         ...     ...     ...
+2025-12-24  Wednesday          1    1.0       1.0         1.0     4.0     4.0
+2025-12-26     Friday         33    5.0      33.0        33.0     3.0     3.0
+2025-12-29     Monday         32    4.0      32.0        32.0     2.0     2.0
+2025-12-30    Tuesday         31    3.0      31.0        31.0     1.0     1.0
+2025-12-31  Wednesday         30    2.0      30.0        30.0     5.0    28.0
+
+[2220 rows x 7 columns]",TRUE,09:20:00,24295.0,24300CE,70.45,True,09:51:00,-11.27,24350CE,64.3,True,09:52:00,True,10:02:00,-9.26,24350CE,68.65,True,10:05:00,False,,61.07,,,False,,False,,0.0,24300PE,78.7,True,09:25:00,-12.59,24250PE,64.4,True,09:29:00,True,09:43:00,-9.27,24300PE,84.45,True,09:51:00,True,10:33:00,-12.16,24200PE,76.5,True,10:34:00,True,10:35:00,-11.02,-4.499999999999993
+2024-12-05,Thursday,"                  Day  BANKNIFTY  NIFTY  FINNIFTY  MIDCPNIFTY  SENSEX  BANKEX
+Date                                                                         
+2017-01-02     Monday          4    NaN       NaN         NaN     NaN     NaN
+2017-01-03    Tuesday          3    NaN       NaN         NaN     NaN     NaN
+2017-01-04  Wednesday          2    NaN       NaN         NaN     NaN     NaN
+2017-01-05   Thursday          1    NaN       NaN         NaN     NaN     NaN
+2017-01-06     Friday          5    NaN       NaN         NaN     NaN     NaN
+...               ...        ...    ...       ...         ...     ...     ...
+2025-12-24  Wednesday          1    1.0       1.0         1.0     4.0     4.0
+2025-12-26     Friday         33    5.0      33.0        33.0     3.0     3.0
+2025-12-29     Monday         32    4.0      32.0        32.0     2.0     2.0
+2025-12-30    Tuesday         31    3.0      31.0        31.0     1.0     1.0
+2025-12-31  Wednesday         30    2.0      30.0        30.0     5.0    28.0
+
+[2220 rows x 7 columns]",TRUE,09:20:00,24596.35,24600CE,63.65,True,09:29:00,-10.18,24600CE,71.5,True,09:38:00,True,09:41:00,-10.3,24600CE,77.0,True,09:46:00,True,12:05:00,-11.09,24650CE,60.7,True,14:55:00,True,15:09:00,-8.74,24400PE,70.35,True,09:25:00,-11.26,24350PE,65.65,True,09:29:00,True,09:34:00,-9.45,24350PE,66.1,True,12:11:00,True,14:57:00,-9.52,24400PE,80.4,True,14:58:00,False,,71.49,0.9499999999999886
+2024-12-12,Thursday,"                  Day  BANKNIFTY  NIFTY  FINNIFTY  MIDCPNIFTY  SENSEX  BANKEX
+Date                                                                         
+2017-01-02     Monday          4    NaN       NaN         NaN     NaN     NaN
+2017-01-03    Tuesday          3    NaN       NaN         NaN     NaN     NaN
+2017-01-04  Wednesday          2    NaN       NaN         NaN     NaN     NaN
+2017-01-05   Thursday          1    NaN       NaN         NaN     NaN     NaN
+2017-01-06     Friday          5    NaN       NaN         NaN     NaN     NaN
+...               ...        ...    ...       ...         ...     ...     ...
+2025-12-24  Wednesday          1    1.0       1.0         1.0     4.0     4.0
+2025-12-26     Friday         33    5.0      33.0        33.0     3.0     3.0
+2025-12-29     Monday         32    4.0      32.0        32.0     2.0     2.0
+2025-12-30    Tuesday         31    3.0      31.0        31.0     1.0     1.0
+2025-12-31  Wednesday         30    2.0      30.0        30.0     5.0    28.0
+
+[2220 rows x 7 columns]",TRUE,09:20:00,24733.0,24650CE,30.5,True,09:26:00,-4.88,24650CE,35.85,True,09:46:00,False,,31.89,,,False,,False,,0.0,,,False,,False,,0.0,24650PE,50.45,True,10:01:00,-8.07,24600PE,29.35,True,10:03:00,True,10:08:00,-4.23,24600PE,31.4,False,,False,,0.0,,,False,,False,,0.0,14.71
+2024-12-19,Thursday,"                  Day  BANKNIFTY  NIFTY  FINNIFTY  MIDCPNIFTY  SENSEX  BANKEX
+Date                                                                         
+2017-01-02     Monday          4    NaN       NaN         NaN     NaN     NaN
+2017-01-03    Tuesday          3    NaN       NaN         NaN     NaN     NaN
+2017-01-04  Wednesday          2    NaN       NaN         NaN     NaN     NaN
+2017-01-05   Thursday          1    NaN       NaN         NaN     NaN     NaN
+2017-01-06     Friday          5    NaN       NaN         NaN     NaN     NaN
+...               ...        ...    ...       ...         ...     ...     ...
+2025-12-24  Wednesday          1    1.0       1.0         1.0     4.0     4.0
+2025-12-26     Friday         33    5.0      33.0        33.0     3.0     3.0
+2025-12-29     Monday         32    4.0      32.0        32.0     2.0     2.0
+2025-12-30    Tuesday         31    3.0      31.0        31.0     1.0     1.0
+2025-12-31  Wednesday         30    2.0      30.0        30.0     5.0    28.0
+
+[2220 rows x 7 columns]",TRUE,09:20:00,23948.75,23950CE,66.4,True,09:44:00,-10.62,23950CE,69.2,True,09:45:00,True,09:55:00,-9.96,24000CE,45.0,True,09:56:00,True,11:39:00,-6.48,24000CE,33.4,True,11:40:00,False,,29.71,23850PE,63.45,True,09:21:00,-10.15,23850PE,66.45,True,09:23:00,False,,59.16,,,False,,False,,0.0,,,False,,False,,0.0,51.66
+2024-12-26,Thursday,"                  Day  BANKNIFTY  NIFTY  FINNIFTY  MIDCPNIFTY  SENSEX  BANKEX
+Date                                                                         
+2017-01-02     Monday          4    NaN       NaN         NaN     NaN     NaN
+2017-01-03    Tuesday          3    NaN       NaN         NaN     NaN     NaN
+2017-01-04  Wednesday          2    NaN       NaN         NaN     NaN     NaN
+2017-01-05   Thursday          1    NaN       NaN         NaN     NaN     NaN
+2017-01-06     Friday          5    NaN       NaN         NaN     NaN     NaN
+...               ...        ...    ...       ...         ...     ...     ...
+2025-12-24  Wednesday          1    1.0       1.0         1.0     4.0     4.0
+2025-12-26     Friday         33    5.0      33.0        33.0     3.0     3.0
+2025-12-29     Monday         32    4.0      32.0        32.0     2.0     2.0
+2025-12-30    Tuesday         31    3.0      31.0        31.0     1.0     1.0
+2025-12-31  Wednesday         30    2.0      30.0        30.0     5.0    28.0
+
+[2220 rows x 7 columns]",TRUE,09:20:00,23853.3,23850CE,66.1,False,,65.39,,,False,,False,,0.0,,,False,,False,,0.0,,,False,,False,,0.0,23850PE,61.7,True,09:49:00,-9.87,23800PE,40.4,True,09:53:00,True,09:56:00,-5.82,23800PE,43.5,True,09:59:00,True,10:01:00,-6.26,23750PE,37.4,True,10:02:00,True,10:05:00,-5.39,38.05

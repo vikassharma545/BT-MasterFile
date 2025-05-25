@@ -1,0 +1,76 @@
+{
+    "picklePath": "C:/PICKLE/",
+    "dtePath": "C:/PICKLE/DTE.csv",
+    "startDate": {
+        "NIFTY": "01-01-2024",
+        "SENSEX": "01-01-2024"
+    },
+    "endDate": "30-12-2024",
+    "dateFormat": "%d-%m-%Y",
+    "hedgeCost%": 12.5,
+    "capital": 100000000,
+    "indices": "['NIFTY', 'SENSEX']",
+    "prefix_from_index": "{'BANKNIFTY':'BN', 'NIFTY':'NF', 'FINNIFTY':'FN', 'MIDCPNIFTY':'MCN','SENSEX':'SX','BANKEX':'BX'}",
+    "index_from_prefix": "{'BN':'BANKNIFTY', 'NF':'NIFTY', 'FN':'FINNIFTY', 'MCN':'MIDCPNIFTY','SX':'SENSEX','BX':'BANKEX'}",
+    "strategyOrder": [
+        "B120 OM-0.25-50",
+        "B120 OM-0.25-60",
+        "B120 OM-0.25-70",
+        "B120 OM-0.25-80",
+        "B120 OM-0.40-20",
+        "B120 OM-0.40-30",
+        "B120 OM-0.40-40",
+        "B120 OM-0.40-50",
+        "BRE CC 0.3 20",
+        "BRE CC 0.4 10",
+        "BRE CC 0.4 15",
+        "DT SELL Till 1000 0.4 20",
+        "DT SELL Till 1000 0.4 25",
+        "DT SELL Till 1000 0.4 30",
+        "New GB120-20-0.4-1",
+        "New GB120-25-0.4-1",
+        "New GB120-30-0.4-1",
+        "New GB120-40-0.4-2",
+        "New GB120-45-0.4-2",
+        "New GB120-50-0.4-2",
+        "RED OM - 10",
+        "RED OM - 15",
+        "RED OM - 20",
+        "SRE OM-0.20-100",
+        "SRE OM-0.20-125",
+        "SRE OM-0.20-75",
+        "SRE OM-ATM-100",
+        "SRE OM-ATM-125",
+        "SRE OM-ATM-75",
+        "SUT OM 10",
+        "SUT OM 15",
+        "SUT OM 20"
+    ],
+    "lotSize": {
+        "BANKNIFTY": 15,
+        "NIFTY": 25,
+        "FINNIFTY": 25,
+        "MIDCPNIFTY": 50,
+        "SENSEX": 10,
+        "BANKEX": 15
+    },
+    "margins": {
+        "expiry": {
+            "BANKNIFTY": 92400,
+            "NIFTY": 68000,
+            "FINNIFTY": 80350,
+            "MIDCPNIFTY": 77950,
+            "SENSEX": 94875,
+            "BANKEX": 97750
+        },
+        "nonExpiry": {
+            "BANKNIFTY": 108900,
+            "NIFTY": 79200,
+            "FINNIFTY": 83160,
+            "MIDCPNIFTY": 77950,
+            "SENSEX": 94875,
+            "BANKEX": 97750
+        }
+    },
+    "manualQntyMaster": "False"
+}
